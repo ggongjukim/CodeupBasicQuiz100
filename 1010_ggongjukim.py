@@ -1,0 +1,2 @@
+﻿n = input()
+print(n)
